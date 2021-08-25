@@ -1,2 +1,2 @@
 # rapidapi-example
-[https://rapidapi-ornek.herokuapp.com/](Web Sayfası)
+(Web Sayfası)[https://rapidapi-ornek.herokuapp.com/]
